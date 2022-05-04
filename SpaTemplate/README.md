@@ -6,11 +6,12 @@
 > 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
 
 
-<p  align=“center”> 
-<a href=‘’ > [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)] </a>
-[![](https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch)]()
-[![](https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist)]()
-[![](https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch)]()
+<p align="center">
+  <a><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <a><img src="https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a><img src="https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a><img src="https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
