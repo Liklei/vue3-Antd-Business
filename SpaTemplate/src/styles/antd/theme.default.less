@@ -1,0 +1,58 @@
+@import 'ant-design-vue/dist/antd.less';
+
+@primary-color: #1da9ff;
+@link-color: #ff8800;
+@info-color: #09dd00;
+@processing-color: #ff8800;
+@success-color: #07c160;
+@error-color: #ff4b31;
+@warning-color: #ff731c;
+@disabled-color: #ccc;
+@heading-color: #212121;
+@text-color: #212121; // 主文本颜色
+@text-color-secondary: #5f5f5f; // 次文本颜色
+@border-color-base: #ccc; // 边框色
+@border-radius-base: 6px; // 组件/浮层圆角
+@border-style-base: solid; // 边框样式
+@box-shadow-base: 0px 8px 16px 1px rgba(0; 0; 0; 0.1); // 浮层阴影
+@font-size-base: 14px;
+@border-width-base: 1px;
+@app-content-background: #fff;
+
+// Buttons
+@btn-shadow: none;
+@btn-primary-shadow: none;
+@btn-text-shadow: none;
+
+@btn-padding-horizontal-base: @padding-sm;
+@btn-padding-horizontal-lg: @btn-padding-horizontal-base;
+@btn-padding-horizontal-sm: @padding-xs;
+
+.ant-btn {
+  min-width: 80px;
+}
+// 组件按需导入的style优先级高于主题变量定制 直接使用选择器替代
+// Modal
+.ant-modal-mask {
+  background-color: rgb(0 0 0 / 50%) !important;
+}
+
+.ant-modal-content {
+  border-radius: 8px !important;
+  overflow: hidden;
+}
+
+.ant-modal-header {
+  color: @text-color !important;
+  padding: 24px 24px 16px !important;
+  border-bottom: none !important;
+}
+
+.ant-modal-body {
+  padding: 0 24px !important;
+}
+
+.ant-modal-footer {
+  padding: 24px !important;
+  border-top: none !important;
+}

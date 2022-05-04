@@ -1,0 +1,6 @@
+{
+  "welcome": "Welcome to Vite + Vue 3 + Typescript +Antd",
+  "common-ok": "Confirm",
+  "network-message": "网络状态已经重新被设置",
+  "network-tips": "网络设置"
+}
