@@ -1,10 +1,33 @@
 ## Vite&TS脚手架
-/azure-devops/coverage/:organization/:project/:definitionId
 
 ### Introduction
 
-> vite脚手架自定义搭建项目
+> Use vite to customize the build your Vue3&TypeScript project
 > 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
+
+
+<p  align=“center”> 
+<a href=‘’ > [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)] </a>
+[![](https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch)]()
+[![](https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist)]()
+[![](https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch)]()
+</p>
+
+
+### Basic Build Lib
+
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org "Go to Node.js homepage") &nbsp;
+[![Made with Yarn](https://img.shields.io/badge/Yarn->=1-blue?logo=yarn&logoColor=white)](https://yarnpkg.com/ "Go to Yarn homepage") &nbsp;
+[![Made with Vite](https://img.shields.io/badge/Yarn->=2-violet?logo=vite&logoColor=white)](https://cn.vitejs.dev/ "Go to Vite homepage") &nbsp;
+[![Made with TypeScript](https://img.shields.io/badge/TypeScript-4-blue?logo=typescript&logoColor=white)](https://typescriptlang.org "Go to TypeScript homepage") &nbsp;
+[![Made with Vue](https://img.shields.io/badge/Vue-3-blue?logo=vue.js&logoColor=green)](https://v3.vuejs.org "Go to Vue homepage") &nbsp;
+
+### Using Tools
+
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) &nbsp;
+![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) &nbsp;
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) &nbsp;
+
 
 ### Install & Use
 
