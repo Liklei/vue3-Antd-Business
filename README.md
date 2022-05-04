@@ -1,4 +1,5 @@
 ## Vite&TS脚手架
+/azure-devops/coverage/:organization/:project/:definitionId
 
 ### Introduction
 
@@ -293,8 +294,6 @@ export default Baz
 - [mac brew 安装](https://zhuanlan.zhihu.com/p/453313557)
 
 
-#### TODO
-- [ ] Vue3 setUP及函数式组件；
-- [ ] windiCSS API使用查看；
-- [ ] antd公共样式抽离和封装；
-- [x] vue3 api自动导入
+#### Next Todo
+- [ ] npm package publish
+- [ ] 加入日志系统
