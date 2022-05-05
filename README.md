@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a><img src="https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a><img src="https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a><img src="https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a><img src="https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a><img src="https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Introduction
