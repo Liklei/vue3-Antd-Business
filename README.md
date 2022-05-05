@@ -3,7 +3,7 @@
 ### Introduction
 
 > Use vite to customize the build your Vue3&TypeScript project
-> 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
+> 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
 
 
 <p align="center">
