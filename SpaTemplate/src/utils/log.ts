@@ -18,7 +18,7 @@ export function logVersion(name: string = pkg.name, version: string = pkg.versio
 }
 
 export function logImg(
-  _img = 'https://static.intsig.net/camcard_company_card/static/img/logo-cc-column.d6052236.png'
+  _img = 'https://en.wikipedia.org/wiki/Vue_Cinemas#/media/File:VueCinemasLogo.svg'
 ) {
   console.log(
     '%c ',
