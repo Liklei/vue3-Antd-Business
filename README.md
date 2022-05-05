@@ -1,10 +1,4 @@
-## Vite&TS脚手架
-
-### Introduction
-
-> Use vite to customize the build your Vue3&TypeScript project
-> 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
-
+## 企业级项目搭建
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" /></a>
@@ -14,6 +8,10 @@
   <a><img src="https://img.shields.io/travis/rust-lang/rust/master.svg#alt=Travis%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a><img src="https://img.shields.io/packagist/l/doctrine/orm.svg#alt=Packagist" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a><img src="https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg#alt=Scrutinizer%20branch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+### Introduction
+
+> Use vite to customize the build your Vue3&TypeScript company project  
+> 初始化项目基于脚手架工具 `Vite`搭建,技术框架`Vue3`并使用`TypeScript`语言开发,其他使用核心技术如: `Vue-Router + vite-plugin-pages` `Pinia`.
 
 ### Basic Build Lib
 
